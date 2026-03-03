@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: danielengelsman/Isratest
+  repo: isratransferwebapps/IsraTransfer-Website
   branch: main
 
 media_folder: "images/blog"

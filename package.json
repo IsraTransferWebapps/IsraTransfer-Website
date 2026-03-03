@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielengelsman/Isratest.git"
+    "url": "git+https://github.com/isratransferwebapps/IsraTransfer-Website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/danielengelsman/Isratest/issues"
+    "url": "https://github.com/isratransferwebapps/IsraTransfer-Website/issues"
   },
-  "homepage": "https://github.com/danielengelsman/Isratest#readme",
+  "homepage": "https://github.com/isratransferwebapps/IsraTransfer-Website#readme",
   "dependencies": {
     "gray-matter": "^4.0.3"
   },
